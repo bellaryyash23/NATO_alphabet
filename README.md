@@ -17,3 +17,4 @@ is to be printed.
 Output NATO phonetic list of letter equivalents👆
 
 
+[![Run on Repl.it](https://replit.com/badge/github/bellaryyash23/NATO_alphabet)](https://replit.com/new/github/bellaryyash23/NATO_alphabet)
